@@ -43,7 +43,3 @@ We explore **Random Forest**, **LSTM neural networks**, and a **hybrid approach*
 - Random Forest provides a simple, fast baseline.
 - Hybrid model balances both approaches.
 
-## Next Steps
-- Add external features like temperature, holidays.
-- Hyperparameter tuning for LSTM and RF.
-- Deploy as a dashboard using Power BI or Streamlit.
